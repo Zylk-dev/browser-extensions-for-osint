@@ -33,7 +33,7 @@ MultiLogin 👤 - Manage multiple logins in a single browser.
 Project Naptha 📄 - Copy text from images directly.
 GoFullPage 📸 - Capture full-page screenshots of websites.
 
-🔒 Privacy and Security Enhancements
+🔒 Privacy and Security Enhancements.
 uBlock Origin 🚫 - Block ads and other unwanted content.
 Bitwarden 🔐 - Open-source password manager.
 ClearURLs 🧹 - Strip tracking parameters from URLs.
